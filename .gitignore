@@ -1,5 +1,6 @@
 .vscode
 .DS_STORE
+lib/volumes
 
 # Binaries for programs and plugins
 *.exe
